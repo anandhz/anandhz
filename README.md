@@ -6,6 +6,7 @@ I'm a passionate data analyst with a love for transforming raw data into meaning
 - Python
 - SQL
 - Excel
+
 🚀 **Projects:**
 - [Project 1](link-to-project-1): Brief description.
 - [Project 2](link-to-project-2): Brief description.
