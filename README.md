@@ -10,6 +10,7 @@ I'm a passionate data analyst with a love for transforming raw data into meaning
 🚀 **Projects:**
 - [Project 1](link-to-project-1): Brief description.
 - [Project 2](link-to-project-2): Brief description.
+
 📚 **Learning:**
 Currently exploring machine learning and diving deeper into data science.
 Feel free to explore my repositories and connect with me. Let's collaborate on exciting data-driven projects!
